@@ -32,7 +32,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-# gem 'tagger', :git => 'git@github.com:bhanubhakta/tagger.git'
+gem 'tagger', :path => 'vendor/tagger'
 gem 'pry'
 gem 'pry-nav'
 
