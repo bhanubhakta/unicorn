@@ -1,10 +1,3 @@
-GIT
-  remote: git@github.com:bhanubhakta/tagger.git
-  revision: 8be5e7466b70f28249db9d8e05b137664baa6ad4
-  specs:
-    tagger (0.1.0)
-      rails (~> 5.1.4)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -204,7 +197,6 @@ DEPENDENCIES
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3
-  tagger!
   turbolinks (~> 5)
   tzinfo-data
   uglifier (>= 1.3.0)
